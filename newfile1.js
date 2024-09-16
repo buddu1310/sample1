@@ -1,6 +1,6 @@
-let a=10000;
-let b=5506;
-let c=555;
+let a=1000;
+let b=5500;
+let c=5550;
 // if((a>b) && (a>c))
 // {
 //   console.log("a is bigger");
